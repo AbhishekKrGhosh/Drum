@@ -5,5 +5,5 @@ Live Link: https://abhishekkrghosh.github.io/Drum/
 
 
 
-<h3>Created a virtual drum set using HTML, CSS, and JavaScript, providing users with an interactive and immersive drumming experience in a web browser.</h3>
-<h3>Utilized JavaScript to capture user input and trigger corresponding drum sounds, resulting in a realistic and dynamic drumming simulation.</h3>
+<h4>Created a virtual drum set using HTML, CSS, and JavaScript, providing users with an interactive and immersive drumming experience in a web browser.</h4>
+<h4>Utilized JavaScript to capture user input and trigger corresponding drum sounds, resulting in a realistic and dynamic drumming simulation.</h4>
